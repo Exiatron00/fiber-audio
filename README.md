@@ -35,7 +35,7 @@ Or use whatever AVR-compatible toolchain you want.
 
 
 ---
-## Build Instructions - normal (logging ADC & PWM over USB)
+## Build Instructions - debug (logging ADC & PWM over USB)
 
 1.) `make clean` - cleanup  
 
